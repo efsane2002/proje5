@@ -1,0 +1,25 @@
+.ul{
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+   width: 80%;
+   margin: 0 auto;
+
+}
+.ul li{
+    list-style: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    right: 50px;
+}
+.div li{
+    margin-right: 20px;
+}

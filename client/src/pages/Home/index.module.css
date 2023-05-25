@@ -1,0 +1,24 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 23px;
+}
+.box1{
+    margin: 0 auto;
+}
+.button:hover{
+    background-color: red !important;
+    height: 50px;
+    transition: .3s;
+    position: relative;
+    left: 0;
+    cursor: pointer;
+}
+.div2{
+    background-image: url('https://preview.colorlib.com/theme/bizpro/images/home/slide-1.jpg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
